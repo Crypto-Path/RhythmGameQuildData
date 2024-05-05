@@ -1,13 +1,13 @@
 {
     "" : { 
         "Name": "All / Custom",
-        "Logo": "https://cdn.discordapp.com/attachments/1160823582369251330/1232216774762692630/Quaver_Guilds_2.png?ex=6628a6cc&is=6627554c&hm=90df12684c305af3c461d1cb7ad2df65878a632273d077d1353eb2eb7b69063d&",
+        "Logo": "https://api.cyphemercury.online/images/RRG_Banner.png",
         "Desc": "",
         "Members" : []
     },
     "ARG" : {
         "Name": "Ascension : Rhythm Games",
-        "Logo": "https://cdn.discordapp.com/attachments/1230702284812320838/1230714099067916390/Sprite-0001.jpg?ex=663452d2&is=6621ddd2&hm=3e09fb88a232dfc1b561b2cdccce72528582f343d6cc053b4b0a01962095a246&",
+        "Logo": "https://api.cyphemercury.online/images/ARG_Banner.jpg",
         "Desc": "A guild for everything rhythm game, but focuses primarily on the 4K/7K-VSRG, Quaver, 4K mode. Our goal is to ascend to the top in everything we do.<br><a href=\"https://discord.gg/u8MwD9mNYd\">Join The Discord</a>",
         "Members" : [
             "66471",
@@ -42,7 +42,7 @@
     },
     "ATP" : {
         "Name": "Association of Tennis Professionals",
-        "Logo": "https://cdn.discordapp.com/attachments/1230701887611736144/1230701900446568539/ATP_Banner.jpg?ex=66344776&is=6621d276&hm=0cdd2d05ed0edb1c682e15e57f351dad741ae1579a4e6d5d3eeaeb48a93d8858&",
+        "Logo": "https://api.cyphemercury.online/images/ATP_Banner.jpg",
         "Desc":"Put your mouse away, turn on autoplay",
         "Members" : [
             "312737",
@@ -101,7 +101,7 @@
     },
     "ERA" : {
         "Name": "ERA",
-        "Logo": "https://media.discordapp.net/attachments/1120813237672362066/1230184466778165269/ERA1.png?ex=6627d990&is=66268810&hm=22fdd5df8dac1472ada765f078944ff4529d6e9c9f6550d2644ddbcef6553c9d&=&format=webp&quality=lossless&width=1439&height=241",
+        "Logo": "https://api.cyphemercury.online/images/ERA_Banner.png",
         "Desc":"",
         "Members" : [
             "74949",
@@ -123,7 +123,7 @@
     },
     "ABSR" : {
         "Name": "Act Broke Stay Rich",
-        "Logo": "https://cdn.discordapp.com/attachments/1160823582369251330/1230711684025417839/ABSR.png?ex=66345092&is=6621db92&hm=6f755e29d7ecfcd4fb0ee0235cef03a4709a9add545cdb3180990f65d14930b2&",
+        "Logo": "https://api.cyphemercury.online/images/ABSR_Banner.png",
         "Desc": "",
         "Members" : [
             "72465",
@@ -151,7 +151,7 @@
     },
     "BOB" : {
         "Name": "Barack Obama Battlecarrier",
-        "Logo": "https://cdn.discordapp.com/attachments/1160823582369251330/1232350884734959748/banner.png?ex=662923b2&is=6627d232&hm=0e15398c3d4989ed8678021df08d5f407b6642a47734b388facc36518264215a&",
+        "Logo": "https://api.cyphemercury.online/images/BOB_Banner.png",
         "Desc":"",
         "Members" : [
             "49146",
