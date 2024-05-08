@@ -1,13 +1,13 @@
 {
     "" : { 
         "Name": "All / Custom",
-        "Logo": "https://api.cyphemercury.online/images/RRG_Banner.png",
+        "Banner": "https://api.cyphemercury.online/images/RRG_Banner.png",
         "Desc": "",
         "Members" : []
     },
     "ARG" : {
         "Name": "Ascension : Rhythm Games",
-        "Logo": "https://api.cyphemercury.online/images/ARG_Banner.jpg",
+        "Banner": "https://api.cyphemercury.online/images/ARG_Banner.jpg",
         "Desc": "A guild for everything rhythm game, but focuses primarily on the 4K/7K-VSRG, Quaver, 4K mode. Our goal is to ascend to the top in everything we do.<br><a href=\"https://discord.gg/u8MwD9mNYd\">Join The Discord</a>",
         "Members" : [
             "66471",
@@ -23,7 +23,7 @@
     },
     "ESV" : {
         "Name": "Everything Scroll Velocity",
-        "Logo": "",
+        "Banner": "",
         "Desc":"",
         "Members" : [
             "53425",
@@ -42,7 +42,7 @@
     },
     "ATP" : {
         "Name": "Association of Tennis Professionals",
-        "Logo": "https://api.cyphemercury.online/images/ATP_Banner.jpg",
+        "Banner": "https://api.cyphemercury.online/images/ATP_Banner.jpg",
         "Desc":"Put your mouse away, turn on autoplay",
         "Members" : [
             "312737",
@@ -93,7 +93,7 @@
     },
     "FQH" : {
         "Name": "Furry Quaver Hideout",
-        "Logo": "",
+        "Banner": "",
         "Desc":"",
         "Members" : [
             "45749"
@@ -101,7 +101,7 @@
     },
     "ERA" : {
         "Name": "ERA",
-        "Logo": "https://api.cyphemercury.online/images/ERA_Banner.png",
+        "Banner": "https://api.cyphemercury.online/images/ERA_Banner.png",
         "Desc":"",
         "Members" : [
             "74949",
@@ -123,7 +123,7 @@
     },
     "ABSR" : {
         "Name": "Act Broke Stay Rich",
-        "Logo": "https://api.cyphemercury.online/images/ABSR_Banner.png",
+        "Banner": "https://api.cyphemercury.online/images/ABSR_Banner.png",
         "Desc": "",
         "Members" : [
             "72465",
@@ -136,7 +136,7 @@
     },
     "TC" : {
         "Name": "Touhou Cafe",
-        "Logo": "",
+        "Banner": "",
         "Desc":"",
         "Members" : [
             "1555",
@@ -151,7 +151,7 @@
     },
     "BOB" : {
         "Name": "Barack Obama Battlecarrier",
-        "Logo": "https://api.cyphemercury.online/images/BOB_Banner.png",
+        "Banner": "https://api.cyphemercury.online/images/BOB_Banner.png",
         "Desc":"",
         "Members" : [
             "49146",
