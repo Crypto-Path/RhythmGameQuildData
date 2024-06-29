@@ -145,13 +145,14 @@
             "292803"
         ]
     },
-    "BOB" : {
+    "BOBA" : {
         "Name": "Barack Obama Battlecarrier",
         "Banner": "https://api.cyphemercury.online/images/BOB_Banner.png",
         "Desc":"",
         "Members" : [
             "49146",
-            "118003"
+            "118003",
+            "359870"
         ]
     },
     "QC" : {
