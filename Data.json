@@ -166,5 +166,19 @@
             "401686",
             "121140"
         ]
+    },
+    "AST" : {
+        "Name": "AccSpeedTech",
+        "Banner":"https://api.cyphemercury.online/images/AST_banner.png",
+        "Desc": "",
+        "Members": [
+            "642537",
+            "626001",
+            "164029",
+            "372140",
+            "508314",
+            "629564",
+            "149125"
+        ]
     }
 }
